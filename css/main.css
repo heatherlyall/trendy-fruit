@@ -4,7 +4,6 @@
 @-webkit-viewport { width: device-width; scale: 1; }
 @viewport { width: device-width; scale: 1; }
 
-
 html {
   box-sizing: border-box;
   -moz-text-size-adjust: 100%;
@@ -22,7 +21,7 @@ body {
 }
 
 .water {
-background-color: #e97065;
+  background-color: #e97065;
 }
 
 .water h2 {
@@ -46,5 +45,5 @@ p {
 }
 
 .persimmon h2 {
-  font-family: 'Comfortaa', cursive;
+  font-family: Comfortaa, cursive;
 }
