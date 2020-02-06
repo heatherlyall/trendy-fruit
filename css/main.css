@@ -16,3 +16,35 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+body {
+  margin: 0;
+}
+
+.water {
+background-color: #e97065;
+}
+
+.water h2 {
+  font-family: "Rammetto One", cursive;
+}
+
+p {
+  font-family: "Open Sans", sans-serif;
+}
+
+.star {
+  background-color: #fbd25e;
+}
+
+.star h2 {
+  font-family: "Gravitas One", cursive;
+}
+
+.persimmon {
+  background-color: #e86033;
+}
+
+.persimmon h2 {
+  font-family: 'Comfortaa', cursive;
+}
